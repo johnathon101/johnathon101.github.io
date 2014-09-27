@@ -4,7 +4,7 @@ email: ja.lueth@gmail.com
 description: Keyboards to handlebars, mugs to lumber. Overcome problems, do fun things.
 page-link: ""
 baseurl: "" # the subpath of your site, e.thg. /blog/
-url: "http://johnathon101.github.io/" # the base hostname & protocol for your site
+url: "http://johnathon101.github.io" # the base hostname & protocol for your site
 twitter_username: johnathon102
 github_username:  johnathon101
 
