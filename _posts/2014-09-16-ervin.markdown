@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "E&S - Post Code School"
+date:   2014-09-17 21:39:09
+categories: employment featured
+---
+
+<p>
+&nbsp;&nbsp;On June 16, about a month after graduating from Omaha Code School I took an internship
+at Ervin & Smith. I needed experience in real world product development and solid feedback on the
+abilities I now possess. What I did not expect was such a great working atmosphere and really friendly,
+creative people. I was lucky enough to come in with Cara Heacock, another code school graduate, so
+there was some familiarity with how we work together previously. We built tic-tac-toe together in
+the first week of class. The experience has been great, I have had the opportunity to delve deeply
+into Wordpress and continued to sharpen my Ruby experience. I am always surprised how quickly a
+Rails project can come together. Even testing has become a fun problem solving experience for me
+and a few months ago I definitely wouldn't have said&nbsp;that.
+</p>
+
+
+<p>&nbsp;&nbsp;Code School taught me how to make things work, Ervin & Smith has taught me that a product can
+work well and still be ugly. The reasoning for small shortcuts or bloated code is usually a
+by-product of a tight schedule. I have tried my best to avoid and learn from these errors by
+creating a road-map that does not only take into account the place I will leave the product, but
+where the next person will take it. I have been the sole rails developer on a few projects now, and
+holding myself accountable to what the next developer will see has been in my forefront since I
+began. I have enjoyed having the time to rebuild what is broken, or refactoring for solutions
+I did not see clearly at first. When it comes down to the wire I know those opportunities will not
+always exist but they have helped me learn a lot about my tendencies, short-comings and overall
+design&nbsp;patterns.</p>

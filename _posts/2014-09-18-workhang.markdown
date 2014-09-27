@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Work/Hang"
+date:   2014-03-17 21:30:09
+categories: projects
+page-link: "http://workhang.com"
+---
+    Goal : Show where people in your group are working, remotely.
+     - Application Authentication
+     - Google Places Integration
+     - Native Checking In/Out
+     - User Sourced Reviews
+     - Group Creation & Moderation
+<hr>
+
+<a href="http://workhang.com" target="_blank"><img src="/images/projects/workhang.png" style="width:800px;"></a>

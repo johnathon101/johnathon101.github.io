@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sock Monkeys Against Cancer"
+date:   2014-05-17 21:32:09
+categories: projects
+page-link: "http://smacangelprogram.com"
+---
+    Goal: Match cancer patients with donors
+        - Application Authentication
+        - Amazon AWS, Facebook Integration
+        - Moderator GUI
+
+<a href="http://smacangelprogram.com" target="_blank"><img src="/images/projects/smac.png" style="width:800px;"></a>

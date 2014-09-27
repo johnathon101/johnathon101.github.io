@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Featured Work"
+permalink: /projects/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Work Done.</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories['projects'] %}
+        <li>
+        <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        </li>
+    {% endfor %}
+  </ul>
+</div>

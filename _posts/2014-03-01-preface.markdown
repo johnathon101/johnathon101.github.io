@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Preface"
+date:   2014-03-01 21:39:09
+categories: code school archive
+---
+I am writing this introduction a week into Omaha Code School. A belief I held was that writing
+anything before getting in to the process would be anxious and very speculative. While not
+inherently negative, it was just not a piece I could bring myself to write. Prior to Omaha Code
+School I was in the Home Improvement business for about 6 years. It allowed me to use problem
+solving and help create things that I could see were improving the projects I was working on. The
+hope is that I can carry these skills of working with people and building projects into my current
+endeavor which is Omaha Code School. There are several things I did not accurately predict. One is
+the cohesiveness that a group of strangers can obtain after being forced to work together for five
+days. I say forced but really should say allowed. Everyone I have worked with on projects this first
+week have been very studious and excited about the assignments. There has been a time in each
+project where we hit progress=0, but no one has wavered in trying to push through the problem.
+Contrary to my initial belief we did not start the class with&nbsp;HelloWorld.rb.
+
+The ease of the transition into Omaha Code School for me actually goes back to when I was an
+extremely young kid. My mom kept accounting records on a c64 with a backup on a tape drive. The only
+thing I knew at that time is once a month a magazine came and she could copy the code into the
+machine and I would have a new game to play. Since that point in time I have always been toying,
+tinkering and enjoying technology. After that c64 we went to x86 and I have hardly pushed a button
+on a mac until Omaha Code School. When Sumeet said it was a requirement I was a bit disheartened. My
+first thought was to try to find a laptop that would cooperate with some hackintosh modification. An
+hour into this process is when I had a realization about myself and how I have always done things. I
+really like my way. I don't know exactly why I prefer to do things in my own way, there are most
+likely better ways to do things or more information I should be looking for to reach objectives. I
+bought a used macbook and entered this phase of my life with the idea that I will not box myself in,
+I will be open to doing things someone else's way, learn from the process, and then make a decision
+about the new best way to do&nbsp;things.
+
+The first week of Omaha Code School has been extremely interesting. I was that last person finished
+on laptop setup day. Though it was a tedious task I do believe that Boxen was the easiest way to get
+everyone on the same page. From there it was off to start working in Ruby. In the prework and still
+at this moment I have a hard time getting used to everything Ruby does for me. My last code
+experience was a Programming class in High School(2000ish) that was C and Basic, the first year they
+switched from COBOL. Now I am all like variable.each HA ITERATION LOOP! That really sums up the
+first week for me. Meeting awesome new people and trying to make sure I use the language
+efficiently. I'll let you know my thoughts on my first Yoga session another&nbsp;time.

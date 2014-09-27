@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Here's Tom With The Weather"
+date:   2014-04-03 21:39:09
+categories: code school archive 
+---
+
+What a week, or a couple of weeks, I don’t remember. What I know is that we, as a class, developed 4
+tangible products in 4.5 days after 4 weeks of class. They’re pretty slick if I don’t say so myself.
+I had a brief moment of fulfillment, programming wise, meeting with my teammates to discuss the
+future of our application. It was like I was back to creating a product, collaborating and trying to
+make the result what we envisioned. Then came Monday. The plans I had to work on our project were
+completely upended by the need to learn the ins and outs of Javascript. I would compare it, thus
+far, to reading Atlas Shrugged. Everyone tells me it is good, I am sure it’s interesting, but
+getting into is like starting a fire with two wet&nbsp;sticks.
+
+I have taken for granted just how eloquent Ruby is. I know there is a cost, whether it be memory,
+load times or some other object that is perceived as an inconvenience. JS just doesn’t have the
+flow,.. maybe I’ll get there. We have met with people from Flywheel & Lemonly which has been an
+interesting perspective into different aspects of development and the products that support it. I am
+excited to see a full stack development operation. We had an assignment to rebuild a site in css and
+html off of an image file. It may be the most versatile language in the world for assembling
+websites but it is the least predictable thus far. If I want something on the right side of the
+layout, I am going to float it left,……. makes sense to me! Once I completely develop my system,
+which I have named CSS Tetris, I’ll like it a lot better. Regardless of the feelings I have from day
+to day regarding language idiosyncrasies or small amounts of pent up energy from working through
+frustrating problems the challenges are wicked fun and the people make it enjoyable.&nbsp;});

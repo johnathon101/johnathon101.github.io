@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "SKU Boutique"
+date:   2014-06-01 21:33:09
+categories: projects
+page-link: "http://sku-boutique.herokuapp.com"
+---
+    Goal: Inventory code creator & data storage
+        - Multiple relationships in database
+        - User customizable inventory parameters
+
+<a href="http://sku-boutique.herokuapp.com" target="_blank"><img src="/images/projects/skuboutique.png">

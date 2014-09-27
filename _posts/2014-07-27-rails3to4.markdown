@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Moving From Rails 3 to 4"
+date:   2014-07-27 20:10:09
+categories: rubyonrails featured
+---
+
+<p>
+Having my entire ruby experience encapsulated in Rails 3.2.17 and Ruby 1.9.3 I thought moving from
+to Rails 4 and Ruby 2.1.2 would be a challenge. My development environment was setup just perfect
+for the versions of software I had learned on and straying from that made me uncomfortable. There
+is no better way than to just dive in. I started having some issues with Heroku almost immediately
+on a new project. The boxen that we used to setup a consistent development environment in Omaha
+Code School used the gem which has been all but abandoned by the Heroku dev team. After moving the
+Heroku toolbelt installation path and adjusting the application path in the bin file it was still
+looking for files in the standard Heroku gem directory. It turned out that rbenv had an alias to
+the Heroku boxen directory where I could not get the Toolbelt to run correctly. I removed every
+trace of rbenv and heroku, reinstalled the toolbelt to the boxen directory and changed the profile
+dot file to point to the correct boxen path and voila, it worked! Prior to removing rbenv I had
+heard very good things about rvm. I started using it exclusively for version control for projects
+and it has been seamlessly integrated into my process. I don't have to remember to version my
+Gemfile, and the gemsets with RVM help isolate overall project size and dependencies very&nbsp;easily.
+</p>
+
+<p>Overall the biggest challenge to moving to Rails 4 has been the Heroku Toolbelt/rbenv fiasco. I
+have come to appreciate moving parameter control on the controller instead of the model. Now, when
+I inevitably forget to allow a parameter, the flow goes right from the controller action where
+the instance is defined, to the bottom of the class where the require/permit method lives. I really
+like that the only parameters that must go throught declaration are those allowed in forms. I can
+still move parameters around from action to model without a special method for each method I need
+to pass parameters to. I think that would be overkill in most&nbsp;instances.
+</p>
+
+<p>As I moved from Ruby 1.9.3 to 2.1.2, the speed difference was apparent immediately. My applications
+spun up and ran noticeably quicker. There is always an emphasis on speed and efficiency while
+creating applications, especially for the web, so the subtle improvements are much&nbsp;appreciated.
+</p>
