@@ -15,7 +15,7 @@ setup. However, while I was debugging some code with a developer, I saw they had
 action, route and an ajax call from the javascript to the controller to get the
 data. It was a moment of realization that my tried and true method of using a gem may be the lazy
 one. Then again, in the time it would take me to build the route, controller, rescue and ajax call
-it would take five times as long and argubaly be nearly the same outcome as using gon.
+it would take five times as long and arguably be nearly the same outcome as using gon.
 
 <br>
 Outside of moving data, the google developer api is just great to work with. The documentation is
