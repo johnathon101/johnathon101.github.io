@@ -2,7 +2,7 @@
 layout: post
 title:  "I Love Google Maps"
 date:   2014-10-09 22:10:09
-categories: rubyonrails featured
+categories: coding featured
 ---
 
 I have a few rails projects living in the wild now and the majority of them use the google developer
